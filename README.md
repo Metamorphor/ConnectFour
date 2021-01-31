@@ -3,7 +3,7 @@ A game of classic Connect4 but the human plays a Bot! The game has been coded in
 
 This project was completed as part of my MSc at The University of Bath and I was awarded a grade of 80%
 
-![Connect 4 OOP](https://raw.githubusercontent.com/Metamorphor/ConnectFour/main/Screenshots/Connect%204%20OOP.PNG?token=APCIX7JBNYUESYUMIVNNBKDACMDNC)
+![Connect 4 OOP](https://github.com/Metamorphor/ConnectFour/blob/main/Screenshots/Connect%204%20OOP.PNG)
 
 
 
